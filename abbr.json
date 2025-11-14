@@ -63,5 +63,9 @@
 "VEN":"ventive",
 "VOC":"vocative",
 "PN": "proper noun",
-"EXIST": "existential"
+"EXIST": "existential",
+"I": "first class",
+"II": "second class",
+"III": "third class",
+"IV": "forth class"
 }
