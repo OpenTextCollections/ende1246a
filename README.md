@@ -9,5 +9,5 @@ Samuel Jerry, Wagiba Geser, Biku Kangge, Rose Warama, Wendy Bewag, Jordan Dobola
 Ibetty Kenny. The stories were compiled, translated, and glossed by Kate L. Lindsey. 
 
 The files in this repository contain the texts in the CLDF format. A human readable version of
-the book is available under the name "TThe Ende way: Short stories and songs from Limol prepared with the Ende Language Committee" at https://zenodo.org/records/17259528 
+the book is available under the name "The Ende way: Short stories and songs from Limol prepared with the Ende Language Committee" at https://zenodo.org/records/17259528 
  
